@@ -7,6 +7,6 @@ if __name__ == '__main__':
   tester.test_pair_to_number('Black', 'Orange', 12)
   tester.test_pair_to_number('Violet', 'Slate', 25)
   tester.test_pair_to_number('Red', 'Orange', 7)
-  print("Reference Manual: ")
+  print("Reference Manual is : ")
   Manual().reference_manual()
   print('Done :)')
